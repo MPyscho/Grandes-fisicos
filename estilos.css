@@ -9,6 +9,12 @@ h2 {
     color: green;background-color: sienna; 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+li {
+    color: #0f0d0d;
+}
+ol {
+    color: #0f0d0d;
+}
 a:hover {
     color: #e78282; background-color: aliceblue;
 }
