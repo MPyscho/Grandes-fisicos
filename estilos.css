@@ -1,4 +1,14 @@
-
+p {
+    color: #0f0d0d;background-color: darkolivegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;font-size: medium;text-align: center;
+}
+h1 {
+    color: saddlebrown; font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: green;background-color: sienna; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 a:hover {
     color: #e78282; background-color: aliceblue;
 }
