@@ -15,12 +15,13 @@ li {
 ol {
     color: #0f0d0d;
 }
-a:hover {
-    color: #094407; background-color: aliceblue;
-}
+
 a:link {
     color: chartreuse; background-color: black;
 }
 a:visited { 
     color: #702405; background-color: aliceblue;
+}
+a:hover {
+    color: #094407; background-color: aliceblue;
 }
