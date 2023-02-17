@@ -16,5 +16,11 @@ ol {
     color: #0f0d0d;
 }
 a:hover {
-    color: #e78282; background-color: aliceblue;
+    color: #094407; background-color: aliceblue;
+}
+a:link {
+    color: chartreuse; background-color: black;
+}
+a:visited { 
+    color: #702405; background-color: aliceblue;
 }
