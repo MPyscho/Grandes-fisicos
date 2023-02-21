@@ -15,7 +15,9 @@ li {
 ol {
     color: #0f0d0d;
 }
-
+dt {
+    background-color: #ad6e55;font-style: italic;color: black;
+}
 a:link {
     color: chartreuse; background-color: black;
 }
